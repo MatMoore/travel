@@ -35,7 +35,7 @@ date:   2020-12-26 13:00:00
 
 ![Page 28-29]({{ '/assets/images/baduk-book/baduk-14-p28.jpg' | relative_url }})
 
-![Page 30-21]({{ '/assets/images/baduk-book/baduk-15-p30.jpg' | relative_url }})
+![Page 30-31]({{ '/assets/images/baduk-book/baduk-15-p30.jpg' | relative_url }})
 
 ![Page 32-33]({{ '/assets/images/baduk-book/baduk-16-p32.jpg' | relative_url }})
 
