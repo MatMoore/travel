@@ -1,6 +1,7 @@
 ---
 title:  "머리가 좋아지는 바둑 (The Enlightening Game of Go)"
 date:   2020-12-26 13:00:00
+layout: null
 ---
 
 # 머리가 좋아지는 바둑 (The Enlightening Game of Go)
