@@ -14,7 +14,7 @@ layout: null
 
 1. [바둑의 기본 규칙과 예절 Basic rules and ettiquette of Go](#chapter-1-바둑의-기본-규칙과-예절-basic-rules-and-ettiquette-of-go)
 2. [바둑은 집이 많으면 이기는 게임 You win the game by having lots of territory](#chapter-2-바둑은-집이-많으면-이기는-게임-you-win-the-game-by-having-lots-of-territory)
-3. 돌 잡기과 살리기 Capturing and saving stones
+3. [돌 잡기과 살리기 Capturing and saving stones](#chapter-3-돌-잡기와-살리기-capturing-and-saving-stones)
 4. 둘러싸인 돌의 삶과 죽음 Life and death of surrounded stones
 5. 돌의 연결과 절단 Connecting and cutting stones
 6. 효율적으로 집 만들기 Efficiently making territory
@@ -111,11 +111,104 @@ While playing, rest your hands on your knees like Princess Yerang. When it's tim
 
 ![Page 10-11]({{ '/assets/images/baduk-book/baduk-06-p10.jpg' | relative_url }})
 
+**Master:** 오늘 단주왕자과 예랑 공주님께 아주 재미있는 게임을 가르쳐 드리도록  하겠습니다.<br>
+Today I will teach Prince Danju and Princess Yerang a very interesting game.
+
+**Prince:** 하하하!! 박사님, 제가 다른 것이라면 몰라도 게임이라면 자신이 있습니다.<br>
+Haha, master, even if it's something else, if it's a game, I feel confident.
+
+**Princess:** 그런데 이게임의 이름은 무엇이죠?<br>
+But what's the name of this game?
+
+**Master:** 네, 제가 새로 개발한 바둑이라는 게임입니다.<br>
+It's a new game I designed called Go.
+
+이 게임을 위해서는 이렇게 생긴 바국판과 그리고 검정색과 하얀색으로 만들어진 바둑돌이 필요하답니다.<br>
+You play with a go board like this, and you need black and white stones.
+
+**Prince:** 바둑판과 바둑알은 가지고 어떻게 하는 게임인데요?<br>
+And how do we play the game?
+
+**Master:** 바둑판을 잘 보시면 선이 그어져 있고 그 선들이 교차하는 지점이 보이시죠? 그 교차점 하나 하나가 집 혹은 보물 이라고 하는데 이 집을 흑과 백 중에서 누가 더 많이 차지하느냐에 따라서 승패가 갈리는 게임이랍니다.<br>
+If you look closely at the Go board you see lines and points where the lines intersect, right? Each of these intersection points can be part of a territory, and whoever takes more territory out of black or white wins the game.
+
+**Princess:** 그런데 어떻게 해야 집을 차지할 수가 있죠?<br>
+But how can I take the territory?
+
+**Master:**
+이렇게 바국돌을 연결하면서 집을 에워싸면 된답니다.<br>
+The territory becomes surrounded when you connect stones like this. [4 stones cover all the neighboring intersections]
+
+집을 에워쌀 때 연결하는 방법은 크게 2가지가 있답니다. 첫 번째로 이렇게 튼튼하게 손을 잡는 방법이 있고<br>
+When you are surrounding territory there are 2 ways to make strong connections. There is the solid "holding hands" way like this. [2 horizontally adjacent stones].
+
+두번째로는 이렇게 재각선으로 손을 잡는 방법이 있습니다.<br>
+And there is the "holding hands at an angle" way like this. [2 diagonally adjacent stones].
+
 ![Page 12-13]({{ '/assets/images/baduk-book/baduk-07-p12.jpg' | relative_url }})
+
+그렇다면 본격적인 게임을 해 보도록 할까요? 제가 왕자님과 공주님께 각각 7개의 바둑돌을 드릴텐데 왕자님에겐 흑돌, 공주님에겐 백돌을 드리겠습니다.<br>
+So, shall we give it a try with a real game? I will give you 7 stones each: black stones for Prince Danju and white stones for Princess Yerang.
+
+두 분은 각자 집을 만들어 보시기 바랍니다.<br>
+I would like each of you to try and make a territory.
+
+물론 두 분 중에서 더 크게 집을 만든 쪽이 승자가 될 것입니다.<br>
+Whoever makes the biggest territory will win.
+
+**Prince:** 흠, 이렇게 집을 만들면 되겠지?<br>
+Hmm, how about if I make territory like this?
+
+나는 X의 곳에 모두 2집을 만들었다!<br>
+I made 2 points of territory in the X area!!
+
+**Princess:** 나는 이렇게 에워싸서 집을 만들어야지!!<br>
+I'll surround like this to make the territory!!
+
+흠, 나는 X의 곳에 모두 합해서 3개의 집을 만들었지!!<br>
+Hmm, altogether I made 3 points of territory in the Xs.
+
+그렇다면 당연히 승리는 나의 차지!!!!<br>
+So that means I win!!!!
+
+**Prince:** 헉!! 똑같이 7개의 돌을 가지고 집을 만들었는데 왜 내 집이 1개 더 적지??<br>
+WTF!! I had the same 7 stones and made territory with them. Why did I end up with 1 less point??
+
+**Master:** 하하하!! 잘 보세요. 왕자님이 집을 만들기 위해 사용한 돌 중에서 흑가 쓸모 없는 곳에 놓여 있기 때문이랍니다.<br>
+Hah hah hah. Look closely. It's because one of the stones you used to make your territory is useless.
+
+그 돌을 가지고 더 크게 집을 만드는데 사용했어야 했는데 아쉽게 되었네요.<br>
+You should have used that stone to make the territory bigger... such a shame.
+
+그래서 오늘 게임의 승자는 예랑 공주님!!!<br>
+Well, today's winner is Princess Yerang!!!
+
+**Prince:** ㅠㅠ 내가 예랑 공주에게 지다니... 다음번에는 꼭 이겨야지!<br>
+[Very upset] Ahhh I lost to Princess Yerang... I definitely have to win next time!
 
 ![Page 14-15}]({{ '/assets/images/baduk-book/baduk-08-p14.jpg' | relative_url }})
 
+### 문제 Problem 1
+
+네군데의 흑집과 백집을 가장 크게 완성시켜 보세요. 그리고 각각 몇 집인지 세어보세요.<br>
+Complete the 4 black and white areas to make the biggest territory, and count how many points each one has.
+
+### 문제 Problem 2
+
+네군데의 흑집과 백집을 각각 세어 보세요. 포로가 된 백와 흑는 1개의 돌을 2집으로 계간하면 됩니다.<br>
+Count each of the 4 black and white areas.  When counting the black and white captured stones, they become 2 points of territory per stone.
+
 ![Page 16-17]({{ '/assets/images/baduk-book/baduk-09-p16.jpg' | relative_url }})
+
+### 정답도 Correct answers
+
+**문제 1:** 11집, 12집, 10집, 15집.<br>
+11 points, 12 points, 10 points, 15 points.
+
+**문제 2:** 8집, 6집, 15집, 18집.<br>
+8 points, 6 points, 15 points, 18 points.
+
+## Chapter 3. 돌 잡기와 살리기 Capturing and saving stones
 
 ![Page 18-19]({{ '/assets/images/baduk-book/baduk-10-p18.jpg' | relative_url }})
 
