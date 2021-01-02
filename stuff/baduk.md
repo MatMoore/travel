@@ -212,6 +212,42 @@ Count each of the 4 black and white areas.  When counting the black and white ca
 
 ![Page 18-19]({{ '/assets/images/baduk-book/baduk-10-p18.jpg' | relative_url }})
 
+**Master:** 오을은 바둑게임을 잘 하기 위해서 꼭 알아 두어야 할 바둑돌의 활로에 대해서 가르쳐 드리겠습니다.<br>
+Today I will teach you about the way of the go stones, so you can play go well.
+
+**Princess:** 활로? 한자로 풀이하면 삶의 길이라응 뜻이죠?<br>
+The way of the go stones? Like a way of life?
+
+**Master:** 역시 공주님은 똑똑하시네요.<br>
+Oh, you are smart as always, Princess.
+
+**Prince:** 그 정도가지고... 나도 그 정도는 얘기할 수 있다고<br>
+[Unimpressed] Hardly... I could have told you that much.
+
+**Master:**  맞았어요. 활로란? 바둑돌이 사는 길, 곧 바둑돌들이 숨 쉬는 곳을 얘기한답니다.<br>
+You were right. What is the way? It's the way for stones to live, and now let me tell you about liberties.
+
+이렇게 놓인 바둑돌은 바로 옆에 있는 곳, 보로 A~D까지 네 군데로 숨을 쉬고 있답니다.<br>
+[Breaking the 4th wall] This stone I placed has empty points right next to it, so these 4 spaces (A-D) are its liberties.
+
+그런데 이렇게 백돌에 의해 활로가 모두 막히면 흑돌은 더 이상 바둑판에서 살지 못하고 백의 포로가 되는 것이지요.<br>
+But when it has no more liberties because of the white stones, the black stone can no longer live, and it's taken off the board to become white's prisoner.
+
+바둑돌을 잡게 되면 자연스럽게 A의 곳에 집이 생기게 된답니다. 뿐만 아니라 포로로 잡은 돌은 나중에 상대방이 만든 집을 없앨 수 있으니까 더더욱 좋겠죠?<br>
+When the black stone is captured, it automatically makes a point of territory at A. And thats not the only thing. Capturing the stones ruins the other player's territory, so it's even better, right?
+
+왕자님! 이렇게 바둑돌이 놓여 있다면 흑은 어느 곳에 두어야 할까요?<br>
+Prince! if the stones are like this, where should black play?
+
+**Prince:** 상대방의 화로를 막으면 잡을 수 있다고 하셨죠? 흐흐흐. 그렇다면 나는 이렇게 공격을 할께요.<br>
+If I block my opponent's liberties I can capture. That's it right? [Evil laughter] ...so I will attack.
+
+**Master:** 하하하. 자신의 약점을 살피지 않고 무조건 공격만 하려고 해서는 안됩니다.<br>
+Ha ha ha. You can't just attack without looking at your own weak points.
+
+**Princess:** 하하. 이건 식은 죽 먹기 보다 쉬운데요. 이렇게 두어서 흑 한점을 잡으면 되니까요!<br>
+Ha ha. This is a piece of cake. I will play like this and capture a black stone!
+
 ![Page 20-21]({{ '/assets/images/baduk-book/baduk-11-p20.jpg' | relative_url }})
 
 ![Page 22-23]({{ '/assets/images/baduk-book/baduk-12-p22.jpg' | relative_url }})
